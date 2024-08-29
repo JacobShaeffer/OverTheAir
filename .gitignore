@@ -1,0 +1,9 @@
+/target
+/.pytest_cache
+/__pycache__
+/PythonVenv
+.DS_Store
+/*.pack
+/content
+/module*
+*.db
